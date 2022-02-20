@@ -26,7 +26,7 @@ body{
 }
 
 .screen{
-    background-color: #ade4e7;
+    background-color: #bcf1f1;
     border-radius: 10px;
     color:rgba(112, 114, 114, 0.993);
     padding: 15px;
@@ -62,12 +62,14 @@ body{
     font-size: 35px;
 }
 
+
+
 .btn-cal > .equal{
-    background-color: #fffb88;
+    background-color: #75f36a;
 }
 
 .btn-cal > .clean{
-    background-color: #51ce6a;
+    background-color: #f3b75d;
 }
 
 .btn-cal :hover{
